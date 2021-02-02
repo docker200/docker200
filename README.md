@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=docker200&show_icons=true&theme=vue" alt="Andy's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=docker200" alt="docker200" />
 
 ### Hi there, I'm [Liudidi](https://andypan.me) 🎉
 
